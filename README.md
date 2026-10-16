@@ -4,6 +4,18 @@ A desk mouse. Waveshare 2 inch capacitive screen, Lonely Binary ESP32-S3 gold bo
 
 It is a USB mouse, a handful of keyboard shortcuts, media keys, and an on-screen keyboard. It does not show Nomad status and it does not talk to the mesh.
 
+The printed case, and the models it came from.
+
+![Finished mouse, stick on the left](photos/built-side.jpg)
+
+![Finished mouse, stick under the screen](photos/built-front.jpg)
+
+![Case top](photos/case-top.png)
+
+![Case tray](photos/case-tray.png)
+
+![Case arm](photos/case-arm.png)
+
 ## Two USB plugs
 
 The board's own USB port is the mouse. After it boots, the PC sees a mouse and a keyboard. That port cannot take a new program.
